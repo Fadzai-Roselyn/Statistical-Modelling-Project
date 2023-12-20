@@ -1,0 +1,1 @@
+Foursquare_api = {'key' : 'fsq3RMzwik+R0gRyS5Fo6FGQB4YeTjSoeUKXJ3Zde4BhCX4='}
