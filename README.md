@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical-Modelling-with-Python
 
 ## Project/Goals
 To make use of the API in Python knowledge acquired in class, in addition to SQLite3 and regression
